@@ -1,0 +1,32 @@
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\bin\Debug\POS_System.exe.config
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\bin\Debug\POS_System.exe
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\bin\Debug\POS_System.pdb
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.csproj.AssemblyReference.cache
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.Menu.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.Start.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.csproj.GenerateResource.cache
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.csproj.CoreCompileInputs.cache
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.exe
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.pdb
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.Login.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.AddProducts.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.ManagementProduct.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.ManagementSaleItems.resources
+C:\Users\Heshan\Documents\GUI\POS_System\POS_System\obj\Debug\POS_System.ManagementSales.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.csproj.AssemblyReference.cache
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.AddProducts.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.Login.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.ManagementProduct.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.ManagementSaleItems.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.ManagementSales.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.Menu.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.Properties.Resources.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.Start.resources
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.csproj.GenerateResource.cache
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.csproj.CoreCompileInputs.cache
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.exe
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\obj\Debug\POS_System.pdb
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\bin\Debug\POS_System.exe.config
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\bin\Debug\POS_System.exe
+C:\Users\Heshan\Desktop\New folder\pos\POS_System\POS_System\bin\Debug\POS_System.pdb
